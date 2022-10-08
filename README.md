@@ -12,7 +12,7 @@ Sağlık, insan yaşamının sürdürülmesi sırasında yaşam kalitesinin yük
 
 ## Uygulamamızı bilgisayarınızda çalıştırın
 ```bash
-ghttps://github.com/Ekinezya/Ekinezya.git
+https://github.com/Ekinezya/Ekinezya.git
 ```
 Kolaylık olması açısından tüm projeyi Pycharm vb. IDE'leri kullanarak açabilirsiniz.
 
