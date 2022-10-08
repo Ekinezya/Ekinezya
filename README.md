@@ -12,7 +12,7 @@ Sağlık, insan yaşamının sürdürülmesi sırasında yaşam kalitesinin yük
 
 ## Uygulamamızı bilgisayarınızda çalıştırın
 ```bash
-git clone https://github.com/YildirimCat/Ekinezya.git
+ghttps://github.com/Ekinezya/Ekinezya.git
 ```
 Kolaylık olması açısından tüm projeyi Pycharm vb. IDE'leri kullanarak açabilirsiniz.
 
