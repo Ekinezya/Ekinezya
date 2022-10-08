@@ -1,0 +1,14 @@
+SOURCES += besinlerGUI.py
+SOURCES += grafik_python.py
+SOURCES += homeGUI.py
+SOURCES += main.py
+SOURCES += main_menu_python.py
+SOURCES += profile.py
+SOURCES += profile_python.py
+SOURCES += profilimGUI.py
+SOURCES += seceneklerGUI.py
+SOURCES += tarif_python.py
+SOURCES += tariflerGUI.py
+SOURCES += update_profile.py
+SOURCES += yardimGUI.py
+TRANSLATIONS += en_US.ts

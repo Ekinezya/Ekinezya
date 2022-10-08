@@ -1,0 +1,106 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/Man.ico</file>
+    <file>icons/icon_profile.png</file>
+    <file>icons/Woman.png</file>
+    <file>icons/profil_ekle.ico</file>
+    <file>icons/profil_sil.ico</file>
+    <file>icons/profil_guncelle.ico</file>
+    <file>icons/icons8-google-translate-52.png</file>
+    <file>icons/icons8-change-theme-48.png</file>
+    <file>icons/icons8-ingredients-48 (1).png</file>
+    <file>icons/icons8-microphone-24.png</file>
+    <file>icons/icons8-salad-32.png</file>
+    <file>icons/icons8-search-24 (3).png</file>
+    <file>icons/icons8-translation-32 (2).png</file>
+    <file>icons/book.ico</file>
+    <file>icons/icons8-account-26.png</file>
+    <file>icons/icons8-bake-48 (1).png</file>
+    <file>icons/icons8-pear-24.png</file>
+    <file>icons/icons8-settings-32 (4).png</file>
+    <file>icons/icons8-user-manual-32 (1).png</file>
+    <file>icons/geri.ico</file>
+    <file>icons/ileri.ico</file>
+    <file>icons/page1.png</file>
+    <file>icons/page1_2.png</file>
+    <file>icons/page2.png</file>
+    <file>icons/page3.png</file>
+    <file>icons/page4.png</file>
+    <file>icons/page4_2.png</file>
+    <file>icons/page5.png</file>
+    <file>icons/page5_2.png</file>
+    <file>icons/page6.png</file>
+    <file>icons/page7.png</file>
+    <file>icons/page7_2.png</file>
+    <file>icons/page8.png</file>
+    <file>icons/page8_2.png</file>
+
+  </qresource>
+   <qresource prefix="grafik">
+    <file>icons/grafik/et.png</file>
+    <file>icons/grafik/yag.png</file>
+    <file>icons/grafik/şeker.png</file>
+    <file>icons/grafik/sut.png</file>
+    <file>icons/grafik/tavuk.png</file>
+    <file>icons/grafik/un.png</file>
+    <file>icons/grafik/0.png</file>
+    <file>icons/grafik/1.png</file>
+    <file>icons/grafik/2.png</file>
+    <file>icons/grafik/3.png</file>
+    <file>icons/grafik/4.png</file>
+    <file>icons/grafik/5.png</file>
+    <file>icons/grafik/6.png</file>
+    <file>icons/grafik/7.png</file>
+    <file>icons/grafik/8.png</file>
+    <file>icons/grafik/9.png</file>
+    <file>icons/grafik/10.png</file>
+    <file>icons/grafik/11.png</file>
+    <file>icons/grafik/12.png</file>
+    <file>icons/grafik/13.png</file>
+    <file>icons/grafik/14.png</file>
+    <file>icons/grafik/15.png</file>
+    <file>icons/grafik/16.png</file>
+    <file>icons/grafik/17.png</file>
+    <file>icons/grafik/18.png</file>
+    <file>icons/grafik/19.png</file>
+    <file>icons/grafik/20.png</file>
+    <file>icons/grafik/21.png</file>
+    <file>icons/grafik/22.png</file>
+    <file>icons/grafik/23.png</file>
+    <file>icons/grafik/24.png</file>
+    <file>icons/grafik/25.png</file>
+    <file>icons/grafik/26.png</file>
+    <file>icons/grafik/27.png</file>
+    <file>icons/grafik/28.png</file>
+    <file>icons/grafik/29.png</file>
+    <file>icons/grafik/30.png</file>
+    <file>icons/grafik/31.png</file>
+    <file>icons/grafik/32.png</file>
+    <file>icons/grafik/33.png</file>
+    <file>icons/grafik/34.png</file>
+    <file>icons/grafik/35.png</file>
+    <file>icons/grafik/36.png</file>
+    <file>icons/grafik/37.png</file>
+    <file>icons/grafik/38.png</file>
+    <file>icons/grafik/39.png</file>
+    <file>icons/grafik/40.png</file>
+    <file>icons/grafik/41.png</file>
+    <file>icons/grafik/42.png</file>
+    <file>icons/grafik/43.png</file>
+    <file>icons/grafik/44.png</file>
+    <file>icons/grafik/45.png</file>
+    <file>icons/grafik/46.png</file>
+    <file>icons/grafik/47.png</file>
+    <file>icons/grafik/48.png</file>
+    <file>icons/grafik/49.png</file>
+    <file>icons/grafik/50.png</file>
+    <file>icons/grafik/51.png</file>
+    <file>icons/grafik/52.png</file>
+    <file>icons/grafik/53.png</file>
+    <file>icons/grafik/54.png</file>
+    <file>icons/grafik/55.png</file>
+    <file>icons/grafik/56.png</file>
+    <file>icons/grafik/57.png</file>
+    <file>icons/grafik/58.png</file>
+  </qresource>
+</RCC>

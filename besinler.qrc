@@ -1,0 +1,78 @@
+<RCC>
+  <qresource prefix="besinler">
+    <file>besinler_icons/cheese.png</file>
+    <file>besinler_icons/ekmek.ico</file>
+    <file>besinler_icons/domates.jpg</file>
+    <file>besinler_icons/levrek.png</file>
+    <file>besinler_icons/adaçayı.png</file>
+    <file>besinler_icons/ton balığı.png</file>
+    <file>besinler_icons/bulgur.png</file>
+    <file>besinler_icons/nohut.png</file>
+    <file>besinler_icons/makarna.png</file>
+    <file>besinler_icons/ay çekirdeği 2.png</file>
+    <file>besinler_icons/aycicek_yagi.png</file>
+    <file>besinler_icons/badem.png</file>
+    <file>besinler_icons/bal.ico</file>
+    <file>besinler_icons/bezelye.png</file>
+    <file>besinler_icons/böğürtlen.png</file>
+    <file>besinler_icons/böğürtlrn2.png</file>
+    <file>besinler_icons/brokoli.ico</file>
+    <file>besinler_icons/buğday.png</file>
+    <file>besinler_icons/butter.png</file>
+    <file>besinler_icons/coffee-cup.png</file>
+    <file>besinler_icons/çikolata.ico</file>
+    <file>besinler_icons/çilek.ico</file>
+    <file>besinler_icons/domates.ico</file>
+    <file>besinler_icons/ekmek(beyaz ).ico</file>
+    <file>besinler_icons/elma.ico</file>
+    <file>besinler_icons/et.ico</file>
+    <file>besinler_icons/fasulye.png</file>
+    <file>besinler_icons/fındık.ico</file>
+    <file>besinler_icons/havuç.ico</file>
+    <file>besinler_icons/hıyar.ico</file>
+    <file>besinler_icons/hurma.png</file>
+    <file>besinler_icons/icons8-lady-40.png</file>
+    <file>besinler_icons/ıspanak.png</file>
+    <file>besinler_icons/kabak.ico</file>
+    <file>besinler_icons/kahve.png</file>
+    <file>besinler_icons/kara lahana.png</file>
+    <file>besinler_icons/karnabahar.ico</file>
+    <file>besinler_icons/kayısı.ico</file>
+    <file>besinler_icons/kereviz.png</file>
+    <file>besinler_icons/kereviz2.png</file>
+    <file>besinler_icons/kuru kayısı.ico</file>
+    <file>besinler_icons/levrek.jpg</file>
+    <file>besinler_icons/limon.ico</file>
+    <file>besinler_icons/marul.png</file>
+    <file>besinler_icons/maydanoz.png</file>
+    <file>besinler_icons/mercimek.png</file>
+    <file>besinler_icons/mısır.ico</file>
+    <file>besinler_icons/muz.ico</file>
+    <file>besinler_icons/muz2.png</file>
+    <file>besinler_icons/nar.ico</file>
+    <file>besinler_icons/patates.ico</file>
+    <file>besinler_icons/patlıcan.ico</file>
+    <file>besinler_icons/pekmez(emin değilim).png</file>
+    <file>besinler_icons/pirinç.ico</file>
+    <file>besinler_icons/portakal.ico</file>
+    <file>besinler_icons/salça.png</file>
+    <file>besinler_icons/soğan.png</file>
+    <file>besinler_icons/süt.ico</file>
+    <file>besinler_icons/şeker.ico</file>
+    <file>besinler_icons/tahin (emin değilim).png</file>
+    <file>besinler_icons/tavuk.ico</file>
+    <file>besinler_icons/tavuk2.png</file>
+    <file>besinler_icons/tomato.ico</file>
+    <file>besinler_icons/whole-wheat-bread.png</file>
+    <file>besinler_icons/bulgur.png</file>
+    <file>besinler_icons/yogurt(bi bu çeşit var).png</file>
+    <file>besinler_icons/yulaf unu.ico</file>
+    <file>besinler_icons/yumurta.ico</file>
+    <file>besinler_icons/zeytin_siyah.png</file>
+    <file>besinler_icons/zeytin_yesil.ico</file>
+    <file>besinler_icons/zeytinyagi.png</file>
+    <file>besinler_icons/peynir.png</file>
+
+
+  </qresource>
+</RCC>
